@@ -27,7 +27,6 @@ Precision	0.85	0.65 <br>
 Recall	0.89	0.56 <br>
 F1-Score	0.87	0.60 <br>
  <br>
-
 Accuracy: 80.4% <br>
  
 Random Forest <br>
@@ -37,7 +36,6 @@ Precision	0.83	0.63 <br>
 Recall	0.89	0.49 <br>
 F1-Score	0.86	0.55 <br>
  <br>
-
 Accuracy: 78.7% <br>
 
 #🛠️ Tech Stack <br>
