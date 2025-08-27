@@ -5,11 +5,11 @@ This project predicts customer churn (whether a customer will leave or stay) usi
 It also includes an interactive dashboard where users can upload their own CSV files and instantly get churn predictions <br>
  <br>
 
-#Project Overview <br>
+## Project Overview <br>
  <br>
 Customer churn is a major challenge in subscription-based businesses. The goal of this project is to build models that can classify whether a customer is likely to churn based on their demographics, services, and payment methods. <br>
 
-Key highlights: <br>
+## Key highlights: <br>
 
 -Data preprocessing (handling categorical variables, missing values, and encoding). <br>
 
@@ -19,7 +19,7 @@ Key highlights: <br>
 
 -Built a Python-based Dashboard for real-time predictions on user-provided datasets. <br>
 
-#📈 Results <br>
+## 📈 Results <br>
  <br>
 Logistic Regression <br>
 Metric	Churn = 0	Churn = 1 <br>
@@ -38,7 +38,7 @@ F1-Score	0.86	0.55 <br>
  <br>
 Accuracy: 78.7% <br>
 
-#🛠️ Tech Stack <br>
+## 🛠️ Tech Stack <br>
 
 Python <br>
 
