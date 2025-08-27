@@ -1,47 +1,47 @@
 # Customer-Churn-Prediction
 
-This project predicts customer churn (whether a customer will leave or stay) using machine learning models on the Telco Customer Churn dataset.
-It also includes an interactive dashboard where users can upload their own CSV files and instantly get churn predictions
+This project predicts customer churn (whether a customer will leave or stay) using machine learning models on the Telco Customer Churn dataset. <br>
+It also includes an interactive dashboard where users can upload their own CSV files and instantly get churn predictions <br>
 
-#Project Overview
-Customer churn is a major challenge in subscription-based businesses. The goal of this project is to build models that can classify whether a customer is likely to churn based on their demographics, services, and payment methods.
+#Project Overview <br>
+Customer churn is a major challenge in subscription-based businesses. The goal of this project is to build models that can classify whether a customer is likely to churn based on their demographics, services, and payment methods. <br>
 
-Key highlights:
+Key highlights: <br>
 
--Data preprocessing (handling categorical variables, missing values, and encoding).
+-Data preprocessing (handling categorical variables, missing values, and encoding). <br>
 
--Trained Logistic Regression and Random Forest classifiers.
+-Trained Logistic Regression and Random Forest classifiers. <br>
 
--Compared models using metrics such as Accuracy, Precision, Recall, and F1-score.
+-Compared models using metrics such as Accuracy, Precision, Recall, and F1-score. <br>
 
--Built a Python-based Dashboard for real-time predictions on user-provided datasets.
+-Built a Python-based Dashboard for real-time predictions on user-provided datasets. <br>
 
-#📈 Results
-Logistic Regression
-Metric	Churn = 0	Churn = 1
-Precision	0.85	0.65
-Recall	0.89	0.56
-F1-Score	0.87	0.60
+#📈 Results <br>
+Logistic Regression <br>
+Metric	Churn = 0	Churn = 1 <br>
+Precision	0.85	0.65 <br>
+Recall	0.89	0.56 <br>
+F1-Score	0.87	0.60 <br>
 
-Accuracy: 80.4%
+Accuracy: 80.4% <br>
+ 
+Random Forest <br>
+Metric	Churn = 0	Churn = 1 <br>
+Precision	0.83	0.63 <br>
+Recall	0.89	0.49 <br>
+F1-Score	0.86	0.55 <br>
 
-Random Forest
-Metric	Churn = 0	Churn = 1
-Precision	0.83	0.63
-Recall	0.89	0.49
-F1-Score	0.86	0.55
+Accuracy: 78.7% <br>
 
-Accuracy: 78.7%
+#🛠️ Tech Stack <br>
 
-#🛠️ Tech Stack
+Python <br>
 
-Python
+Pandas, NumPy <br>
 
-Pandas, NumPy
+Scikit-learn <br>
 
-Scikit-learn
+Matplotlib / Seaborn <br>
 
-Matplotlib / Seaborn
-
-Streamlit / Tkinter / Dash (for dashboard)
+Streamlit / Tkinter / Dash (for dashboard) <br>
 
