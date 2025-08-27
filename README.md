@@ -52,10 +52,26 @@ Streamlit / Tkinter / Dash (for dashboard) <br>
 
 ## 📂 Project Structure
 
-│── README.md # Project documentation
-│── churn_prediction.ipynb # Jupyter Notebook (training + evaluation)
-│── churn_prediction.py # Python script for dashboard and evaluation 
-│── churn_model.pkl # Pre-trained model file
-│── testing_data.csv # Sample CSV for testing predictions
+│── README.md # Project documentation <br>
+│── churn_prediction.ipynb # Jupyter Notebook (training + evaluation) <br>
+│── churn_prediction.py # Python script for dashboard and evaluation <br>
+│── churn_model.pkl # Pre-trained model file<br>
+│── testing_data.csv # Sample CSV for testing predictions<br>
+<br>
 
+
+
+## 🚀 How to Use<br>
+
+# 📓 Run Jupyter Notebook<br>
+
+For training, evaluation, and visualizations:<br>
+
+jupyter notebook churn_prediction.ipynb<br>
+
+## 🐍 Run Python Script <br>
+
+# For direct predictions using the saved model:
+<br>
+python churn_prediction.py<br>
 
