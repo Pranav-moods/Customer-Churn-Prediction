@@ -50,3 +50,12 @@ Matplotlib / Seaborn <br>
 
 Streamlit / Tkinter / Dash (for dashboard) <br>
 
+## 📂 Project Structure
+
+│── README.md # Project documentation
+│── churn_prediction.ipynb # Jupyter Notebook (training + evaluation)
+│── churn_prediction.py # Python script for dashboard and evaluation 
+│── churn_model.pkl # Pre-trained model file
+│── testing_data.csv # Sample CSV for testing predictions
+
+
